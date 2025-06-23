@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Arnold's Blog"
+name: "CCX_Ug's Blog"
 # Short bio or description (displayed in the header)
-description: "幻想中的美好技术分享世界"
+description: "ggg"
 
 #
 # Flags below are optional
@@ -42,10 +42,10 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu:
-  email: arnoldchow@outlook.com
+  email: ccx-cn@outlook.com
   facebook:
   flickr:
-  github: arnold117 
+  github: CCX_Uglydog
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -65,10 +65,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: Ov23lifAlmngT1mDw6eK
-  clientSecret: 72431c12b851561fc2565a9b93449b03fb24e851
-  repo: arnold117.github.io
-  owner: arnold117
+  clientID: Ov23liKOMIm8KhAbMyXO
+  clientSecret: 222ddf7a1b5abb48e5777d1283d2ffafb4870a62
+  repo: ccx-uglydog.github.io
+  owner: CCX-Uglydog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 # google_analytics: 
